@@ -1,35 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "/home/engwill/codenation/csharp-7/Source.Test/Source.Test.csproj": {}
+    "C:\\Users\\willi\\codenation\\csharp-7\\Source.Test\\Source.Test.csproj": {}
   },
   "projects": {
-    "/home/engwill/codenation/csharp-7/Source.Test/Source.Test.csproj": {
+    "C:\\Users\\willi\\codenation\\csharp-7\\Source.Test\\Source.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/engwill/codenation/csharp-7/Source.Test/Source.Test.csproj",
+        "projectUniqueName": "C:\\Users\\willi\\codenation\\csharp-7\\Source.Test\\Source.Test.csproj",
         "projectName": "Source.Test",
-        "projectPath": "/home/engwill/codenation/csharp-7/Source.Test/Source.Test.csproj",
-        "packagesPath": "/home/engwill/.nuget/packages/",
-        "outputPath": "/home/engwill/codenation/csharp-7/Source.Test/obj/",
+        "projectPath": "C:\\Users\\willi\\codenation\\csharp-7\\Source.Test\\Source.Test.csproj",
+        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\willi\\codenation\\csharp-7\\Source.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/engwill/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "/home/engwill/codenation/csharp-7/Source/Source.csproj": {
-                "projectPath": "/home/engwill/codenation/csharp-7/Source/Source.csproj"
+              "C:\\Users\\willi\\codenation\\csharp-7\\Source\\Source.csproj": {
+                "projectPath": "C:\\Users\\willi\\codenation\\csharp-7\\Source\\Source.csproj"
               }
             }
           }
@@ -80,29 +82,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/engwill/codenation/csharp-7/Source/Source.csproj": {
+    "C:\\Users\\willi\\codenation\\csharp-7\\Source\\Source.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/engwill/codenation/csharp-7/Source/Source.csproj",
+        "projectUniqueName": "C:\\Users\\willi\\codenation\\csharp-7\\Source\\Source.csproj",
         "projectName": "Source",
-        "projectPath": "/home/engwill/codenation/csharp-7/Source/Source.csproj",
-        "packagesPath": "/home/engwill/.nuget/packages/",
-        "outputPath": "/home/engwill/codenation/csharp-7/Source/obj/",
+        "projectPath": "C:\\Users\\willi\\codenation\\csharp-7\\Source\\Source.csproj",
+        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\willi\\codenation\\csharp-7\\Source\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/engwill/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -155,7 +159,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
